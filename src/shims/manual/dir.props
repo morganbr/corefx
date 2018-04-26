@@ -3,6 +3,7 @@
   <PropertyGroup>
     <BuildConfigurations>
       netcoreapp;
+      netcoreappaot;
       uap;
     </BuildConfigurations>
     <IsNETCoreApp>true</IsNETCoreApp>
